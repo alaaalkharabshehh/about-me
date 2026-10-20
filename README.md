@@ -15,3 +15,4 @@
 ## Goals
 
 - to graduate.
+- to sleep
