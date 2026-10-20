@@ -3,7 +3,7 @@
 
 - Name: Alaa Alkharabsheh
 - University: Al-Balqa Applied University
-- Major: Software Engineering
+- Major: Software Engineering at IT Faculty
 ## Skills
 
 - Java
