@@ -5,8 +5,7 @@
 - University: Al-Balqa Applied University
 - Major: Software Engineering at IT Faculty
 ## Skills
-
-- Java
+- Java programming
 - Python
 - HTML
 - CSS
