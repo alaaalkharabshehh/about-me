@@ -12,3 +12,6 @@
 - CSS
 - Git
 - c#
+## Goals
+
+- to graduate.
