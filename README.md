@@ -14,6 +14,7 @@
 ## Goals
 
 - to graduate and become a software engineer.
+- to graduate with excellent grades.
 - to sleep
 ## Contact
 
