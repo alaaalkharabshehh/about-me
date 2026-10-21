@@ -12,8 +12,7 @@
 - Git
 - c#
 ## Goals
-
-- to graduate.
+- to graduate with excellent grades.
 - to sleep
 ## Contact
 
