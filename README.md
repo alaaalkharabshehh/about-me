@@ -18,3 +18,6 @@
 ## Contact
 
 - GitHub: [alaaalkharabshehh](https://github.com/alaaalalkharabshehh)
+## Favorite Quote
+
+- Keep learning 
