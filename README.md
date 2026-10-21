@@ -16,10 +16,12 @@
 * c#
 
 ## Goals
-
-* to graduate.
-* to sleep
-
+- to graduate and become a software engineer.
+- to graduate with excellent grades.
+- to sleep
+- to graduate and become a software engineer.
+- to graduate with excellent grades.
+- to sleep
 ## Contact
 
 * GitHub: [alaaalkharabshehh](https://github.com/alaaalalkharabshehh)
