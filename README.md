@@ -13,7 +13,7 @@
 - c#
 ## Goals
 
-- to graduate.
+- to graduate and become a software engineer.
 - to sleep
 ## Contact
 
