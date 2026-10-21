@@ -21,3 +21,7 @@
 ## Favorite Quote
 
 - Keep learning 
+## Education
+
+- Major: SE
+- Currently learning: Software development and Git/GitHub
